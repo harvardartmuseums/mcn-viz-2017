@@ -32,6 +32,19 @@ Appealing to those in other disciplines; applying different visual metaphors
 Made with Processing  
 
 
+### Mapping the Museum Universe
+
+MuseumStat  
+Use it: https://www.MuseumStat.org  
+Hack it: https://github.com/MuseumStat/imls-museum-data   
+
+MuseumFinder App  
+Use it: [Apple App Store (search for “museumfinder”)](https://itunes.apple.com/us/app/museumfinder/id1056778517)  
+
+Philadelphia Nonprofit Explorer (prototype interactive map)  
+Try it: http://bit.ly/PhillyNPOs  
+
+
 ## Resources
 Story Telling with Data by Cole Nussbaumer Knaflic  
 http://www.storytellingwithdata.com/ 
