@@ -3,6 +3,17 @@
 
 Links and notes for the data viz session at MCN 2017. Read the full session description at [this link](http://conference.mcn.edu/2017/profile.cfm?profile_name=session&master_key=518F5162-BDDB-85C9-4888-6EF21D6CD1C8&page_key=0244AE70-CFED-1DEC-42AB-9041A6F4885D&xtemplate&userLGNKEY=0).
 
+
+### Data Visualization for Education/Communication 
+
+Monticello
+Visit: www.monticello.org
+
+The Digital Archaeological Archive of Comparative Slavery 
+Visit: www.daacs.org
+Use it: https://www.daacs.org/query-the-database/
+
+
 ### Exploratory Data Visualization at Harvard Art Museums 
 
 Museum Explorer  
@@ -55,3 +66,11 @@ https://processing.org/
 D3 (Data-Driven Documents)  
 https://d3js.org/  
 
+DAACS research
+https://www.daacs.org/research/
+
+National Forum on Education Statistics. (2016). Forum Guide to Data Visualization: A Resource for Education Agencies. (NFES 2017-016). U.S. Department of Education. Washington, DC: National Center for Education Statistics. 
+https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=NFES2017016
+
+More examples of physical visualizations
+http://dataphys.org/list/
