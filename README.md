@@ -66,6 +66,9 @@ https://processing.org/
 D3 (Data-Driven Documents)  
 https://d3js.org/  
 
+Qlik  
+https://www.qlik.com/us  
+
 Tableau  
 https://www.tableau.com/  
 
