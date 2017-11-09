@@ -66,6 +66,12 @@ https://processing.org/
 D3 (Data-Driven Documents)  
 https://d3js.org/  
 
+Tableau  
+https://www.tableau.com/  
+
+Dexibit  
+http://dexibit.com/  
+
 DAACS research  
 https://www.daacs.org/research/
 
