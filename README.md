@@ -39,6 +39,7 @@ Made with Processing
 
 Solar Systems  
 Watch it: https://vimeo.com/103183403  
+Hack it: https://github.com/harvardartmuseums/Viz-CollectionSolarSystems  
 Appealing to those in other disciplines; applying different visual metaphors  
 Made with Processing  
 
@@ -83,3 +84,6 @@ https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=NFES2017016
 
 More examples of physical visualizations  
 http://dataphys.org/list/
+
+IMLS Data Catalog  
+https://data.imls.gov/
