@@ -1,7 +1,9 @@
 # Beyond the Graphing Calculator: A Deep Dive into Data Visualization and Cultural Institutions
 ## MCN 2017, November 7-10, 2017
 
-Links and notes for the data viz session at MCN 2017. Read the full session description at [this link](http://conference.mcn.edu/2017/profile.cfm?profile_name=session&master_key=518F5162-BDDB-85C9-4888-6EF21D6CD1C8&page_key=0244AE70-CFED-1DEC-42AB-9041A6F4885D&xtemplate&userLGNKEY=0).
+Links and notes for the data viz session at MCN 2017. Read the full session description at [this link](http://conference.mcn.edu/2017/profile.cfm?profile_name=session&master_key=518F5162-BDDB-85C9-4888-6EF21D6CD1C8&page_key=0244AE70-CFED-1DEC-42AB-9041A6F4885D&xtemplate&userLGNKEY=0).  
+
+Listen to the audio recording of the session on YouTube at https://www.youtube.com/watch?v=lf2tYFwZ3hs.  
 
 
 ### Data Visualization for Education/Communication 
