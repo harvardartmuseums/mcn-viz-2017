@@ -18,6 +18,8 @@ Use it: https://www.daacs.org/query-the-database/
 
 ### Exploratory Data Visualization at Harvard Art Museums 
 
+Slides: https://www.slideshare.net/JeffSteward1/mcn-2017-allwithnotes-83009199
+
 Museum Explorer  
 Use it: http://apps.harvardartmuseums.org/museum-explorer/  
 Hack it: https://github.com/harvardartmuseums/museum-explorer    
